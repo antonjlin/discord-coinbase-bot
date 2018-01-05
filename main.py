@@ -17,7 +17,7 @@ while True:
     timestamp = datetime.utcnow().replace(microsecond=0).isoformat()
     embeds = [{
         'type': 'rich',
-        "title": "BTC/USD",
+        "title": "Crypto Prices",
         "url": "https://coinbase.com",
         "color": 2149376,
         "timestamp": timestamp,
