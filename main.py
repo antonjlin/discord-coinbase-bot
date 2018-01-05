@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 import json
 
-delay = 60 #seconds
+delay = 1800 #seconds
 discordWebhook = 'MY_WEBHOOK' #enter in your webhook url
 
 '''
@@ -26,8 +26,6 @@ while True:
     timestamp = datetime.utcnow().replace(microsecond=0).isoformat()
     embeds = [{
         'type': 'rich',
-        "title": "Crypto Prices",
-        "url": "https://coinbase.com",
         "color": 123456,
         "timestamp": timestamp,
         "fields": [
