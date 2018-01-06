@@ -15,3 +15,7 @@ A simple script that runs in the background and sends coinbase prices periodical
 
 # Credits
 www.github.com/antonjlin
+* Donate me a cup of coffee using:
+*   BTC: 1PxNNeap6YvuefLuDSTykGBA5Y4xHnvtxB
+*   ETH: 0x00B68816864d9e334FDF5f5eeb032D1DC57951D4
+*   LTC: LfkfCoeJL5z6fARtZJKpFfMaNqXnA5GAhy
